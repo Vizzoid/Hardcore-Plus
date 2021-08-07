@@ -1,0 +1,6 @@
+name: HardcorePlus
+version: ${project.version}
+main: com.hardcore.main.Main
+api-version: 1.17
+authors: [ Vizzoid ]
+description: This plugin offers a new take on hardcore, with friends! When you die, instead of missing out, you have the option to control a mob and complete tasks for revival! Don't be fooled, once you revive, you will be negatively affected.
